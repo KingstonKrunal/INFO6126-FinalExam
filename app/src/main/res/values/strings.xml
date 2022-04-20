@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">KrunalShah Final Exam</string>
+    <string name="roll_dice">ROLL DICE</string>
+    <string name="textview">TextView</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="roll_image_1">Roll Image 1</string>
+    <string name="roll_image_2">Roll Image 2</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roll_dice">TIRAR EL DADO</string>
+    <string name="textview">vista de texto</string>
+    <string name="_1">uno</string>
+    <string name="_2">dos</string>
+    <string name="roll_image_1">Imagen de rollo 1</string>
+    <string name="roll_image_2">Imagen de rollo 2</string>
+</resources>
